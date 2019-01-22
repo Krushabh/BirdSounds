@@ -1,5 +1,7 @@
 {
   "name": "BirdSounds",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
